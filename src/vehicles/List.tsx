@@ -169,6 +169,7 @@ function List() {
                             'aria-label': 'change date',
                         }}
                         error={errors.deliveryEstimatedDate}
+                        autoOk={true}
                         />
                 </form>
             </DialogContent>
