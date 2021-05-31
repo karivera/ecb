@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.maintenance{
+  background-color: rgb(237, 247, 237);
+}
+
+
